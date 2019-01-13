@@ -20,7 +20,6 @@
 }
 
 #fullpage section:nth-child(2) { 
-
     background-image: url('../images/sanfracisco.jpeg');
     background-size: cover; 
 }
