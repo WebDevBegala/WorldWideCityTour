@@ -40,7 +40,7 @@
     background-size: cover;
 }
 #fullpage section:nth-child(6) { 
-    background-image: url('/images/dubai.jpeg');
+    background-image: url('images/dubai.jpeg');
     background-size: cover;
 }
 
