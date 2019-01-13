@@ -9,7 +9,7 @@
 			this.currIndex = 0;
 			this.animating = false;
 			this.init();
-		}
+	}
 
 		var utils = {
 			throttle:function(callback,delayTime,maxTime){
