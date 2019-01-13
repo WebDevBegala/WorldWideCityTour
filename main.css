@@ -21,22 +21,22 @@
 
 #fullpage section:nth-child(2) { 
 
-    background-image: url('/images/sanfracisco.jpeg');
+    background-image: url('images/sanfracisco.jpeg');
     background-size: cover; 
 }
 
 #fullpage section:nth-child(3) { 
-    background-image: url('/images/edinburgh.jpeg');
+    background-image: url('images/edinburgh.jpeg');
     background-size: cover;; 
 }
 
 #fullpage section:nth-child(4) { 
-    background-image: url('/images/velence.jpeg');
+    background-image: url('images/velence.jpeg');
     background-size: cover;
 }
 
 #fullpage section:nth-child(5) { 
-    background-image: url('/images/singapore.jpeg');
+    background-image: url('images/singapore.jpeg');
     background-size: cover;
 }
 #fullpage section:nth-child(6) { 
