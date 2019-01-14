@@ -113,6 +113,10 @@
     font-size:20px;
     border-radius:5px;
     text-decoration: none;
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%,0);
 }
 .btn:hover{
     background-color: rgb(2, 160, 15);
